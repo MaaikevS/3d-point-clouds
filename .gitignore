@@ -1,0 +1,16 @@
+# Jupyter Notebook output files
+.ipynb_checkpoints/
+
+# Jupyter Notebook kernel-specific files
+.Rhistory
+.ipynb-meta/
+
+# Jupyter Notebook temporary files
+*.bak
+*.tmp
+
+# Data folder
+/data/**/*.json
+
+# Output folder
+/output/**/*.json

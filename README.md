@@ -1,9 +1,10 @@
 # 3D Point Clouds
 
-Files in this repository have been used for the manuscript "Cortico-subcortical rodent brain tract-tracing data spatially integrated for analyses of three-dimensional topographical organization"
+Files in this repository have been used for the manuscript "Spatially integrated cortico-subcortical tracing data for analyses of rodent brain topographical organization"
 
 ## Project Organization
 
+To be able to use the scripts, data should be downloaded from the [EBRAINS Knowledge Graph](https://search.kg.ebrains.eu/?category=Dataset) and placed in the data folder in the repository.
 ------------
 
     ├── LICENSE

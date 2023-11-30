@@ -4,7 +4,7 @@ Files in this repository have been used for the manuscript "Spatially integrated
 
 ## Project Organization
 
-To be able to use the scripts, data should be downloaded from the [EBRAINS Knowledge Graph](https://search.kg.ebrains.eu/?category=Dataset) and placed in the data folder in the repository.
+#### To be able to use the scripts, data should be downloaded from the [EBRAINS Knowledge Graph](https://search.kg.ebrains.eu/?category=Dataset) and placed in the data folder in the repository.
 ------------
 
     ├── LICENSE

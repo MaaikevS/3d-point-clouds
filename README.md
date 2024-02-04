@@ -39,8 +39,10 @@ Files in this repository have been used for the manuscript "Spatially integrated
 
 Datasets are available on [EBRAINS](https://search.kg.ebrains.eu/?category=Dataset)
 
-- Wild-type mice: [DOI: 10.25493/QT31-PJS](https://search.kg.ebrains.eu/instances/4660e79b-a731-40ac-905e-46d0d11c0dd5)
-- Transgenic mice: [DOI: 10.25493/HVEV-2JG](https://search.kg.ebrains.eu/instances/d5ce9a28-021d-4d8a-94b0-9f532765ccd7)
-- Nex-cKO: [DOI: 10.25493/AJVE-B8G](https://search.kg.ebrains.eu/instances/27dd2588-f4da-406c-9d01-8569bf912b0e)
-- Rat cortex: [DOI: 10.25493/2QDM-EX3](https://search.kg.ebrains.eu/instances/2c499d79-ab7c-47d2-95e6-8e60d383c1a1)
-- Rat somatosensory cortex: [DOI: 10.25493/HDZN-Y3A](https://search.kg.ebrains.eu/instances/dfe42457-ed43-4bf7-b7e6-90b3b0e2ef14)
+- Wild-type mice: **DOI: [10.25493/GDYP-B1B](https://doi.org/10.25493/GDYP-B1B)**
+- Transgenic mice: **DOI: [10.25493/HWJY-RDV](https://doi.org/10.25493/HWJY-RDV)**
+- Nex-cKO: **DOI: [10.25493/11HT-S4B](https://doi.org/10.25493/11HT-S4B)**
+- Rat cortex: **DOI: [10.25493/9TMN-64U](https://doi.org/10.25493/9TMN-64U)**
+- Rat somatosensory cortex: **DOI: [10.25493/ZSZ9-3NN](https://doi.org/10.25493/ZSZ9-3NN)**
+- Rat barrel cortex **DOI: [10.25493/W8MG-X2R](https://doi.org/10.25493/W8MG-X2R)**
+- Rat sensorimotor cortex **DOI: [10.25493/TH1N-V8P](https://doi.org/10.25493/TH1N-V8P)**

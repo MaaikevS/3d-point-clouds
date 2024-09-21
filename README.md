@@ -26,6 +26,7 @@ To be able to use the scripts, data should be downloaded from the [EBRAINS Knowl
     ├── code                 <- folder with python scripts and jupyter notebooks
     │   ├── img              <- image folder for images in jupyter notebooks
         |   ├── ...
+        ├── calculate_distance.ipynb
         ├── change_color.ipynb
         ├── compare_extraction_method.ipynb
         ├── compare_genotype.ipynb
@@ -37,6 +38,7 @@ To be able to use the scripts, data should be downloaded from the [EBRAINS Knowl
         ├── create_gradientmap_rat
         ├── create_gradientmap_transgenic
         ├── create_gradientmap_WT
+        ├── helper.py
         ├── json2csv.py
         ├── json2txt.py
         ├── spead_points.py   
@@ -61,11 +63,16 @@ To be able to use the scripts, data should be downloaded from the [EBRAINS Knowl
 
 The following scripts were used to produce the figures in the manuscript:
 
-- **Figure 2:** script for the comparison of feature extraction methods (``compare_extraction_method.ipynb``).
-- **Figure 3:** color coded visualization of injection sites in the wildtype mouse (``create_gradientmap_WT.ipynb``) and rat (``create_gradientmap_rat.ipynb``).
-- **Figure 4:** script for comparing points representing projections to different subcortical regions in the same animal (``compare_regions.ipynb``).
-- **Figure 5:** script for comparing mouse brain connectivity points in different mouse genotypes (``compare_genotype.ipynb``).
+- **Figure 2:** script for quantifying the similarity between 2 point clouds based on Euclidean distance (``calculate_distance.ipynb``).
+- **Figure 3:** script for the comparison of feature extraction methods (``compare_extraction_method.ipynb``).
+- **Figure 4:** color coded visualization of injection sites in the wildtype mouse (``create_gradientmap_WT.ipynb``) and rat (``create_gradientmap_rat.ipynb``).
+- **Figure 5:** script for comparing points representing projections to different subcortical regions in the same animal (``compare_regions.ipynb``).
+- **Figure 6:** script for comparing mouse brain connectivity points in different mouse genotypes (``compare_genotype.ipynb``).
 
+### Helper functions
+
+- ``helper.py:`` script with processing and visualisation functions for the analysis of figure 2.
+ 
 ### Custom file creation
 If you want to explore the datasets further, we made available three scripts that allow you to create custom Meshview compatible output files for up to 10 cases.
 
